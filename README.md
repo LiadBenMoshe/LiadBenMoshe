@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Developer,<br>Motivated to create, develop and experience.<br>Extremely creative and knows I can do anything.
+I am Full Stack Developer,<br>Motivated to create, develop and experience.<br>Extremely creative and gets things done.
 
 
 ## 🌐 Socials:
