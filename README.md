@@ -15,7 +15,7 @@ I am Full Stack Developer,<br>Motivated to create, develop and experience.<br>Ex
 ---
 [![](https://visitcount.itsvg.in/api?id=LiadBenMoshe&icon=4&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can help to my Start-Up by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/liadbenmoshe) 
 
 
